@@ -57,3 +57,9 @@ with col2:
     st.button("balonky", on_click=st.balloons)
 with col3:
     st.button("snih", on_click=st.snow)
+
+st.markdown(
+    """src="https://docs.google.com/forms/d/e/1FAIpQLSeNEAVH0J3Fob8uPX2qJz3puVX5HhE_LTs2CqG5mkcmMSsrOg/viewform" name="rsvp" height="300px" width="100%" title="RSVP form"></iframe>""",
+    unsafe_allow_html=True
+
+)
