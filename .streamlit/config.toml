@@ -1,6 +1,5 @@
 [theme]
+font="serif"
 base="light"
 [ui]
 hideTopBar = true
-[theme]
-font="serif"
