@@ -54,7 +54,7 @@ Camping: Space will be allocated for setting up tents on-site. Local school: If 
 we will secure a spot for you. Hotel: For those who prefer the comfort of a hotel, we will gladly provide you with recommendations. However, the costs of the hotel will unfortunately be on your own
 Transportation to the hotel and campsites will be arranged. Dearest friends, your presence is the most precious gift to us on this legendary day. With warmth, love, and excitement,
 """
-st.subheader("Anna & Max")
+st.code("Anna and Max")
 
 
 st.image("footer.png")
