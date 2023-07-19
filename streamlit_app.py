@@ -5,18 +5,13 @@ st.image("info.png")
 st.subheader("Dearest Friends,")
 """
 Allow us to share with you some more details of the highly-anticipated wedding of the millennium. We hope the following points will give you an idea of the festivities on that glorious day:
-"""
-st.code(
-"""
+
 Who: Anna and Max
 When: Saturday, September 2, 2023
 Where: The beautiful Chříč Castle at Chříč 1
 Ceremony: Commencing at 2:00 PM
 Arrivals: From 12:30 PM to 1:30 PM.
-"""
-)
 
-"""
 Light refreshments will be provided. For those camping enthusiasts, we suggest aiming for the start of the arrival window.
 """
 st.image("spacer.png")
@@ -50,8 +45,14 @@ st.image("spacer.png")
 
 st.subheader("accomodation options:")
 """
-Camping: Space will be allocated for setting up tents on-site. Local school: If you prefer the comfort of the school, please bring a sleeping mat and a sleeping bag. Riverside camps: Just 8 minutes away by car, there are two camps with cabins that have beds and bedding. Each cabin accommodates 4 people. We have approximately 50 spots reserved, so please let us know, and
-we will secure a spot for you. Hotel: For those who prefer the comfort of a hotel, we will gladly provide you with recommendations. However, the costs of the hotel will unfortunately be on your own
+Camping: Space will be allocated for setting up tents on-site.
+
+Local school: If you prefer the comfort of the school, please bring a sleeping mat and a sleeping bag.
+
+Riverside camps: Just 8 minutes away by car, there are two camps with cabins that have beds and bedding. Each cabin accommodates 4 people. We have approximately 50 spots reserved, so please let us know, and
+we will secure a spot for you.
+
+Hotel: For those who prefer the comfort of a hotel, we will gladly provide you with recommendations. However, the costs of the hotel will unfortunately be on your own
 Transportation to the hotel and campsites will be arranged. Dearest friends, your presence is the most precious gift to us on this legendary day. With warmth, love, and excitement,
 """
 st.code("Anna and Max")
