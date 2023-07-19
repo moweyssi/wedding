@@ -98,8 +98,12 @@ else:
     """
 
     st.image("signature.png")
-    st.button("balonky", on_click=st.balloons)
-    st.button("snih", on_click=st.snow)
+
+    col1,col2,col3,col5,col5 = st.columns(5)
+    with col1:
+        st.button("balonky", on_click=st.balloons)
+    with col5:
+        st.button("snih", on_click=st.snow)
 
 
 
