@@ -60,7 +60,7 @@ we will secure a spot for you.
 Hotel: For those who prefer the comfort of a hotel, we will gladly provide you with recommendations. However, the costs of the hotel will unfortunately be on your own
 Transportation to the hotel and campsites will be arranged. Dearest friends, your presence is the most precious gift to us on this legendary day. With warmth, love, and excitement,
 """
-st.code("Anna and Max")
+st.image("signature.png")
 
 
 st.image("footer.png")
