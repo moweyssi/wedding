@@ -9,7 +9,6 @@ hide_decoration_bar_style = '''
 '''
 st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
 language = st.radio(
-    "Choose your language",
     ('ENG','CZ'), horizontal=True)
 st.image("info.png")
 
