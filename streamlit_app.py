@@ -36,17 +36,14 @@ Due to our scattered possessions across various European lands and beyond, we do
 """
 st.image("spacer.png")
 
-st.subheader("accomodation options:")
+st.subheader("Overnight:")
 """
-Camping: Space will be allocated for setting up tents on-site.
+The first option is to camp. Space will be allocated for setting up tents on-site. If you prefer the comfort of a roof over your head, you can sleep in a local school, please bring a sleeping mat and a sleeping bag for this option. You will share space with other people. Just 8 minutes away by car, are two camps with cabins. There are beds and bedding. Each cabin accommodates 4 people. We have approximately 50 spots reserved, so please let us know, and we will secure a spot for you. For those who prefer the comfort of a hotel, we will
+gladly provide you with recommendations. However, this will have to be at your own expense.
 
-Local school: If you prefer the comfort of the school, please bring a sleeping mat and a sleeping bag.
+Dearest friends, your presence is the most precious gift to us on this legendary day.
 
-Riverside camps: Just 8 minutes away by car, there are two camps with cabins that have beds and bedding. Each cabin accommodates 4 people. We have approximately 50 spots reserved, so please let us know, and
-we will secure a spot for you.
-
-Hotel: For those who prefer the comfort of a hotel, we will gladly provide you with recommendations. However, the costs of the hotel will unfortunately be on your own
-Transportation to the hotel and campsites will be arranged. Dearest friends, your presence is the most precious gift to us on this legendary day. With warmth, love, and excitement,
+With warmth, love, and excitement,
 """
 st.image("signature.png")
 
