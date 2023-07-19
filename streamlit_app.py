@@ -47,14 +47,13 @@ With warmth, love, and excitement,
 """
 st.image("signature.png")
 
-st.subheader("RSVP Form:")
-with st.expander("RSVP Form"):
+with st.expander(":rewd[RSVP Form]"):
     st.markdown(
         """
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNEAVH0J3Fob8uPX2qJz3puVX5HhE_LTs2CqG5mkcmMSsrOg/viewform?embedded=true", width=100%, height=1500></iframe>
         """,
         unsafe_allow_html=True
-    
+
     )
 
 st.image("footer.png")
