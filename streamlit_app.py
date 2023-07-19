@@ -7,7 +7,7 @@ hide_decoration_bar_style = '''
 st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
 genre = st.radio(
     "Choose your language",
-    ('CZ','ENG'))
+    ('CZ','ENG'), horizontal=True)
 st.image("info.png")
 
 st.subheader("Dearest Friends,")
