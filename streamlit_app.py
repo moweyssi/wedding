@@ -8,17 +8,22 @@ hide_decoration_bar_style = '''
     </style>
 '''
 st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
-genre = st.radio(
+language = st.radio(
     "Choose your language",
-    ('CZ','ENG'), horizontal=True)
+    ('ENG','CZ'), horizontal=True)
 st.image("info.png")
 
 st.subheader("Dearest Friends,")
-"""
-Please allow us to share further details of our highly-anticipated wedding.
-We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is Saturday, September 2, 2023. Please join us at the beautiful Chříč chateau. The address is Chříč 1. The ceremony will commence at 2:00 PM but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
-start of the arrival window, so you can enjoy the rest of the party without logistical distractions.
-"""
+if language == "ENG":
+    """
+    Please allow us to share further details of our highly-anticipated wedding.
+    We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is Saturday, September 2, 2023. Please join us at the beautiful Chříč chateau. The address is Chříč 1. The ceremony will commence at 2:00 PM but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
+    start of the arrival window, so you can enjoy the rest of the party without logistical distractions.
+    """
+else:
+    """
+    blablablacestina
+    """
 st.image("spacer.png")
 
 st.subheader("Festivities")
