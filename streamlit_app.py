@@ -27,21 +27,21 @@ if language == "ENG":
     st.subheader("Dearest Friends,")
     """
     Please allow us to share further details of our highly-anticipated wedding.
-    We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is **Saturday, September 2, 2023**. Please join us at the beautiful Chříč chateau. The address is Chříč 1. The ceremony will commence at 2:00 PM but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
+    We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is **Saturday, September 2, 2023**. Please join us at the beautiful Chříč chateau. The address is **Chříč 1**. The ceremony will commence at **2:00 PM** but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
     start of the arrival window, so you can enjoy the rest of the party without logistical distractions.
     """
     st.image("spacer.png")
 
     st.subheader("Festivities")
     """
-    Dear friends, on the same day, another wedding will also take place in the village. Therefore, please follow the navigation marked with our initials A + M. Additionally, the traditional Chříč Rally will also be happening in the village. Yes, this is not a joke. We perceive it as a positive and sincere beginning to our married life, one filled with surprises and challenges. In case the traditional automotive festivities hinder any of the many roads to Chříč, we will keep you informed.
+    Dear friends, on the same day, another wedding will also take place in the village. Therefore, please follow the **navigation marked with our initials A + M**. Additionally, the traditional Chříč Rally will also be happening in the village. Yes, this is not a joke. We perceive it as a positive and sincere beginning to our married life, one filled with surprises and challenges. In case the traditional automotive festivities hinder any of the many roads to Chříč, we will keep you informed.
     """
     st.image("spacer.png")
 
     st.subheader("Party")
     """
-    The party will commence with a toast at 3:30 PM. This will also get the ball on the castle terrace rolling. To harmonise with the atmosphere, we invite you to bring something sparkly. It can be jewellery, a piece of clothing, shoes, or anything else. Glitter has no limits.
-    We kindly ask all guests to avoid clumsy footwear that could lead to unwanted dance mishaps and incidents in the natural landscape. Instead, we recommend stylish and comfortable shoes so you can enjoy the festivities carefree.
+    The party will commence with a toast at 3:30 PM. This will also get the ball on the castle terrace rolling. To harmonise with the atmosphere, we invite you to **bring something sparkly**. It can be jewellery, a piece of clothing, shoes, or anything else. **Glitter has no limits.**
+    We kindly ask all guests to **avoid clumsy footwear** that could lead to unwanted dance mishaps and incidents in the natural landscape. Instead, we recommend stylish and comfortable shoes so you can enjoy the festivities carefree.
     """
     st.image("spacer.png")
 
@@ -67,18 +67,18 @@ if language == "ENG":
 else:
     st.subheader("Nejmilejší rodino a přátelé,")
     """
-    Dovolte nám, abychom vás s radostí pozvali na naší avizovanou zámeckou svatbu. Doufáme, že vám následující body poskytnou představu o dění onoho slavnostního dne. Svatba se uskuteční v sobotu 2. září 2023 na krásném Chříčském zámku, který najdete na adrese Chříč 1. Začátek obřadu je ve 14.00. Prosím přijeďte mezi 12.30 a 13.30. Pro stanaře doporučujeme mířit na začátek příjezdového okna.
+    Dovolte nám, abychom vás s radostí pozvali na naší avizovanou zámeckou svatbu. Doufáme, že vám následující body poskytnou představu o dění onoho slavnostního dne. Svatba se uskuteční v sobotu **2. září 2023** na krásném Chříčském zámku, který najdete na adrese **Chříč 1**. Začátek obřadu je ve **14.00**. Prosím přijeďte mezi 12.30 a 13.30. Pro stanaře doporučujeme mířit na začátek příjezdového okna.
     """
     st.image("spacer.png")
 
     st.subheader("Srandy kopec")
     """
-    Drazí přátelé, ve stejný den se ve vesnici koná i další svatba. Proto prosím sledujte navigační cedule s iniciály A + M. Kromě druhé svatby se ve vesnici bude také konat tradiční chříčské rally. Ano, je to tak. Vnímáme to jako pozitivní a upřímný začátek manželského soužití, které bude jistě plné překvapení a výzev. V případě, že by tradiční automobilové slavnosti měly blokovat jednu z mnoha cest do Chříče, dáme vědět.    """
+    Drazí přátelé, ve stejný den se ve vesnici koná i další svatba. Proto prosím sledujte **navigační cedule** s iniciály A + M. Kromě druhé svatby se ve vesnici bude také konat tradiční chříčské rally. Ano, je to tak. Vnímáme to jako pozitivní a upřímný začátek manželského soužití, které bude jistě plné překvapení a výzev. V případě, že by tradiční automobilové slavnosti měly blokovat jednu z mnoha cest do Chříče, dáme vědět.    """
     st.image("spacer.png")
 
     st.subheader("Bál na zámecké terase")
     """
-    Párty začíná přípitkem v 15.30. Poté vás zveme na bál na zámecké terase. Abyste se dokonale sladili s atmosférou, vyzýváme vás, abyste si přinesli něco, co se třpytí. Může to být šperk, kus oděvu, střevíce bez podpatku či něco jiného. Kreativitě se meze nekladou. Také prosíme všechny hosty, aby se vyhnuli neohrabaným botám, které by mohly způsobit nechtěné taneční eskapády. Místo toho doporučujeme stylovou a pohodlnou obuv, abyste se mohli bezstarostně bavit v exotickém chříském terénu.
+    Párty začíná přípitkem v 15.30. Poté vás zveme na bál na zámecké terase. Abyste se dokonale sladili s atmosférou, vyzýváme vás, abyste si přinesli **něco, co se třpytí**. Může to být šperk, kus oděvu, střevíce bez podpatku či něco jiného. Kreativitě se meze nekladou. Také prosíme všechny hosty, aby se vyhnuli **neohrabaným botám**, které by mohly způsobit nechtěné taneční eskapády. Místo toho doporučujeme stylovou a pohodlnou obuv, abyste se mohli bezstarostně bavit v exotickém chříském terénu.
     """
     st.image("spacer.png")
 
