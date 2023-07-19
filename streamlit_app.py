@@ -62,8 +62,11 @@ if language == "ENG":
     With warmth, love, and excitement,
     """
     st.image("signature.png")
-    st.button("balloons", on_click=st.balloons)
-    st.button("snow", on_click=st.snow)
+    col1,col2,col3,col5,col5,col6,col7 = st.columns(7)
+    with col1:
+        st.button("balloons", on_click=st.balloons)
+    with col7:
+        st.button("snow", on_click=st.snow)
 else:
     st.subheader("Nejmilejší rodino a přátelé,")
     """
@@ -101,9 +104,9 @@ else:
 
     col1,col2,col3,col5,col5,col6,col7 = st.columns(7)
     with col1:
-        st.button("balonky", on_click=st.balloons)
+        st.button("balónky", on_click=st.balloons)
     with col7:
-        st.button("snih", on_click=st.snow)
+        st.button("sníh", on_click=st.snow)
 
 
 
