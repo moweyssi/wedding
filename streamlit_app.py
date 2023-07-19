@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("info.png")
+st.image("info.png",width=1000)
 
 st.subheader("Dearest Friends,")
 """
