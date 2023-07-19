@@ -10,47 +10,29 @@ st.image("info.png")
 
 st.subheader("Dearest Friends,")
 """
-Allow us to share with you some more details of the highly-anticipated wedding of the millennium. We hope the following points will give you an idea of the festivities on that glorious day:
-
-Who: Anna and Max
-
-When: Saturday, September 2, 2023
-
-Where: The beautiful Chříč Castle at Chříč 1
-
-Ceremony: Commencing at 2:00 PM
-
-Arrivals: From 12:30 PM to 1:30 PM.
-
-
-Light refreshments will be provided. For those camping enthusiasts, we suggest aiming for the start of the arrival window.
+Please allow us to share further details of our highly-anticipated wedding.
+We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is Saturday, September 2, 2023. Please join us at the beautiful Chříč chateau. The address is Chříč 1. The ceremony will commence at 2:00 PM but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
+start of the arrival window, so you can enjoy the rest of the party without logistical distractions.
 """
 st.image("spacer.png")
 
-st.subheader("festivities")
+st.subheader("Festivities")
 """
-Dear friends, on the same day, another wedding will take place in the village. Therefore, please follow the navigation marked with initials A + M. Additionally, the traditional Chříč
-Rally will also be happening in the village. Yes, you heard it right. We perceive it as a positive and sincere
-start to our married life, one filled with surprises and challenges. In case the traditional automotive
-festivities hinder any of the many roads to Chříč, we will keep you informed.
+Dear friends, on the same day, another wedding will also take place in the village. Therefore, please follow the navigation marked with our initials A + M. Additionally, the traditional Chříč Rally will also be happening in the village. Yes, this is not a joke. We perceive it as a positive and sincere beginning to our married life, one filled with surprises and challenges. In case the traditional automotive festivities hinder any of the many roads to Chříč, we will keep you informed.
 """
 st.image("spacer.png")
 
-st.subheader("and now. the grand evening approaches!")
+st.subheader("Party")
 """
-The party will commence with a toast at approximately 3:30 PM, launching a radiant ball on the castle
-terrace. To harmonise with the atmosphere, we urge you to bring something that sparkles. It can be
-jewellery, a piece of clothing, flat shoes, or anything else. Glitter has no limits. We kindly ask all guests to avoid clumsy footwear that could lead to unwanted dance mishaps. Instead, we recommend stylish and comfortable shoes so you can enjoy the festivities carefree.
+The party will commence with a toast at 3:30 PM. This will also get the ball on the castle terrace rolling. To harmonise with the atmosphere, we invite you to bring something sparkly. It can be jewellery, a piece of clothing, shoes, or anything else. Glitter has no limits.
+We kindly ask all guests to avoid clumsy footwear that could lead to unwanted dance mishaps and incidents in the natural landscape. Instead, we recommend stylish and comfortable shoes so you can enjoy the festivities carefree.
 """
 st.image("spacer.png")
 
-st.subheader("gifts")
+st.subheader("Gifts")
 """
-Due to our scattered possessions across various European lands and beyond, we do not wish for traditional
-material gifts. However, if you would be so kind and wish to support us, we would gratefully accept a
-financial contribution towards our journey into the world, which will take place in the winter months. Your
-assistance will help us explore exotic destinations and build shared memories that will fuel our peaceful
-marriage during times of conflict and challenge.
+
+Due to our scattered possessions across various European lands and beyond, we do not wish for traditional material gifts. However, if you wish to support our newly formed unity, we would gratefully accept a financial contribution towards our journey into the world, which will take place in the winter months. Your assistance will help us explore exotic destinations and build shared memories that will fuel our peaceful marriage during times of conflict and challenge.
 """
 st.image("spacer.png")
 
