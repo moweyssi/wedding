@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-img=Image.open("footer.png")
+img=Image.open("logo.png")
 st.set_page_config(page_title="Anna & Max", page_icon=img)
 hide_decoration_bar_style = '''
     <style>
