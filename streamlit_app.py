@@ -50,7 +50,7 @@ st.image("signature.png")
 
 st.markdown(
     """
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQFnGOog3dOb0TflEM9Md8sDOPvdY3OOFssiRbZS7_nhQ0P2ZPs6WgDYmkaSBoY9nxMRCMGjjDXlGJQ/pub?embedded=true"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQFnGOog3dOb0TflEM9Md8sDOPvdY3OOFssiRbZS7_nhQ0P2ZPs6WgDYmkaSBoY9nxMRCMGjjDXlGJQ/pub?embedded=true", width=100%></iframe>
     """,
     unsafe_allow_html=True
 
