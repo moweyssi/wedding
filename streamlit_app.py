@@ -5,17 +5,18 @@ st.image("info.png")
 st.subheader("Dearest Friends,")
 """
 Allow us to share with you some more details of the highly-anticipated wedding of the millennium. We hope the following points will give you an idea of the festivities on that glorious day:
-
+"""
+st.code(
+"""
 Who: Anna and Max
-
 When: Saturday, September 2, 2023
-
 Where: The beautiful Chříč Castle at Chříč 1
-
 Ceremony: Commencing at 2:00 PM
-
 Arrivals: From 12:30 PM to 1:30 PM.
+"""
+)
 
+""""""
 Light refreshments will be provided. For those camping enthusiasts, we suggest aiming for the start of the arrival window.
 """
 st.image("spacer.png")
