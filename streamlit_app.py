@@ -11,8 +11,11 @@ When: Saturday, September 2, 2023
 
 Where: The beautiful Chříč Castle at Chříč 1
 
-Ceremony: Commencing at 2:00 PM Arrivals: From 12:30 PM to 1:30 PM. Light refreshments will be
-provided. For those camping enthusiasts, we suggest aiming for the start of the arrival window.
+Ceremony: Commencing at 2:00 PM
+
+Arrivals: From 12:30 PM to 1:30 PM.
+
+Light refreshments will be provided. For those camping enthusiasts, we suggest aiming for the start of the arrival window.
 """
 st.image("spacer.png")
 
