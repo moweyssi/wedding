@@ -61,6 +61,9 @@ if language == "ENG":
 
     With warmth, love, and excitement,
     """
+    st.image("signature.png")
+    st.button("balloons", on_click=st.balloons)
+    st.button("snow", on_click=st.snow)
 else:
     st.subheader("Nejmilejší rodino a přátelé,")
     """
@@ -88,15 +91,15 @@ else:
     """
     Na místě bude pro Vás a vaše blízké vyhrazeno místo pro postavení stanů. Pokud upřednostňujete střechu nad hlavou, je tu možnost spaní v hromadné místnosti místní školy Pivoňka. V tom případě vám stačí spacák a karimatka. Vzdálené pouhých 8 minut jízdy se nachází dva kempy s chatičkami. Jsou vybaveny postelemi a povlečením. Každá chatička je určena pro 4 osoby. Máme zamluveno cca 50 míst. V případě zájmu nám dejte vědět a zamluvíme vám místo. Pro ty, kteří preferují komfort hotelu, rádi poskytneme tipy, kde se ubytovat. Avšak náklady na hotel budou bohužel na vás.
     Drazí svatebčané, vaše přítomnost je pro nás tím nejcennějším darem během tohoto legendárního dne.
-    
+
     Těšíme se!
 
     S úctou, láskou a nadšením,
     """
 
-st.image("signature.png")
-st.button("balonky", on_click=st.balloons)
-st.button("snih", on_click=st.snow)
+    st.image("signature.png")
+    st.button("balonky", on_click=st.balloons)
+    st.button("snih", on_click=st.snow)
 
 
 
