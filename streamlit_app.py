@@ -16,7 +16,7 @@ Arrivals: From 12:30 PM to 1:30 PM.
 """
 )
 
-""""""
+"""
 Light refreshments will be provided. For those camping enthusiasts, we suggest aiming for the start of the arrival window.
 """
 st.image("spacer.png")
