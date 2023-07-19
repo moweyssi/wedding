@@ -65,12 +65,5 @@ st.code("Anna and Max")
 
 st.image("footer.png")
   
-if st.button("balonky"):
-      st.balloons()
-else:
-      continue
-
-if st.button("snih"):
-      st.snow()
-else:
-      continue
+st.button("balonky", on_click=st.balloons)
+st.button("snih", on_click=st.snow)
