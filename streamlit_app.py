@@ -27,7 +27,7 @@ if language == "ENG":
     st.subheader("Dearest Friends,")
     """
     Please allow us to share further details of our highly-anticipated wedding.
-    We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is Saturday, September 2, 2023. Please join us at the beautiful Chříč chateau. The address is Chříč 1. The ceremony will commence at 2:00 PM but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
+    We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is **Saturday, September 2, 2023**. Please join us at the beautiful Chříč chateau. The address is Chříč 1. The ceremony will commence at 2:00 PM but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
     start of the arrival window, so you can enjoy the rest of the party without logistical distractions.
     """
     st.image("spacer.png")
