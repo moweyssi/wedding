@@ -58,11 +58,8 @@ with st.expander(":rewd[RSVP Form]"):
 
 st.image("footer.png")
 
-col1, col2 = st.columns(2)
-with col1:
-    st.button("balonky", on_click=st.balloons)
-with col2:
-    st.button("snih", on_click=st.snow)
+st.button("balonky", on_click=st.balloons)
+st.button("snih", on_click=st.snow)
 
 
 
