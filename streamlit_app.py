@@ -29,6 +29,8 @@ if language == "ENG":
     Please allow us to share further details of our highly-anticipated wedding.
     We hope the following points will give you an idea of the festivities on that glorious day: The date to put down in your calendar is **Saturday, September 2, 2023**. Please join us at the beautiful Chříč chateau. The address is **Chříč 1**. The ceremony will commence at **2:00 PM** but we ask you to arrive between 12:30 PM and 1:30 PM. Light refreshments will be provided upon your arrival. For those camping enthusiasts, we suggest aiming for the
     start of the arrival window, so you can enjoy the rest of the party without logistical distractions.
+
+    We humbly ask you for a singular favor: bestow upon us but a scant ten seconds of your precious time on the **RVSP form above**. In doing so, you will greatly aid us with preparations for this grand event, ensuring its resplendent success for all who partake.
     """
     st.image("spacer.png")
 
@@ -71,6 +73,8 @@ else:
     st.subheader("Nejmilejší rodino a přátelé,")
     """
     Dovolte nám, abychom vás s radostí pozvali na naší avizovanou zámeckou svatbu. Doufáme, že vám následující body poskytnou představu o dění onoho slavnostního dne. Svatba se uskuteční v sobotu **2. září 2023** na krásném Chříčském zámku, který najdete na adrese **Chříč 1**. Začátek obřadu je ve **14.00**. Prosím přijeďte mezi 12.30 a 13.30. Pro stanaře doporučujeme mířit na začátek příjezdového okna.
+    
+    S úctou vás prosíme o jednu laskavost: obdařte nás deseti vteřinami Vašeho cenného času a vyplňte prosím náš **RVSP formulář výše**. Tím nám umožníte pokračovat se složitými přípravami onoho velkolepého dne.
     """
     st.image("spacer.png")
 
@@ -93,7 +97,7 @@ else:
     st.subheader("Nocleh:")
     """
     Na místě bude pro Vás a vaše blízké vyhrazeno místo pro postavení stanů. Pokud upřednostňujete střechu nad hlavou, je tu možnost spaní v hromadné místnosti místní školy Pivoňka. V tom případě vám stačí spacák a karimatka. Vzdálené pouhých 8 minut jízdy se nachází dva kempy s chatičkami. Jsou vybaveny postelemi a povlečením. Každá chatička je určena pro 4 osoby. Máme zamluveno cca 50 míst. V případě zájmu nám dejte vědět a zamluvíme vám místo. Pro ty, kteří preferují komfort hotelu, rádi poskytneme tipy, kde se ubytovat. Avšak náklady na hotel budou bohužel na vás.
-    Drazí svatebčané, vaše přítomnost je pro nás tím nejcennějším darem během tohoto legendárního dne.
+    Drazí svatebčané, vaše přítomnost je pro nás tím nejcennějším darem tohoto legendárního dne.
 
     Těšíme se!
 
