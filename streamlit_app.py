@@ -57,3 +57,4 @@ st.subheader("Anna & Max")
 
 
 st.image("footer.png")
+st.balloons()
