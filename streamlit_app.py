@@ -1,5 +1,7 @@
 import streamlit as st
-st.image("info.png",width=1000)
+st.set_page_config(layout="wide")
+st.image("info.png")
+st.set_page_config(layout="centered")
 
 st.subheader("Dearest Friends,")
 """
