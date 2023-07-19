@@ -67,6 +67,10 @@ st.image("footer.png")
   
 if st.button("balonky"):
       st.balloons()
-  
+else:
+      continue
+
 if st.button("snih"):
       st.snow()
+else:
+      continue
