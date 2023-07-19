@@ -64,4 +64,9 @@ st.code("Anna and Max")
 
 
 st.image("footer.png")
-st.balloons()
+  
+if st.button("balonky"):
+      st.balloons()
+  
+if st.button("snih"):
+      st.snow()
