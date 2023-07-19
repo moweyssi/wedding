@@ -8,8 +8,9 @@ hide_decoration_bar_style = '''
     </style>
 '''
 st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
-language = st.radio(None,
-    ('ENG','CZ'), horizontal=True)
+language = st.radio(
+    "Choose your language",
+    ('ENG','CZ'), horizontal=True,label_visibility="hidden")
 st.image("info.png")
 
 st.subheader("Dearest Friends,")
