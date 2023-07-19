@@ -63,7 +63,11 @@ Transportation to the hotel and campsites will be arranged. Dearest friends, you
 st.image("signature.png")
 
 
-st.image("footer.png")
-  
-st.button("balonky", on_click=st.balloons)
-st.button("snih", on_click=st.snow)
+
+
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.image("footer.png")
+with col3:
+    st.button("balonky", on_click=st.balloons)
+    st.button("snih", on_click=st.snow)
