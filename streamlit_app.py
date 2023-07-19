@@ -68,6 +68,7 @@ st.image("signature.png")
 col1, col2, col3 = st.columns(3)
 with col1:
     st.image("footer.png")
-with col3:
+with col2:
     st.button("balonky", on_click=st.balloons)
+with col3:
     st.button("snih", on_click=st.snow)
