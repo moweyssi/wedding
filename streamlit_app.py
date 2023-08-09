@@ -54,10 +54,10 @@ if language == "ENG":
     """
     col1, col2, col3 = st.columns(3)
     col1.code(
-        "UK bank account\nName: Maxim Oweyssi\nAccount number: 04817931\nSort code: 04-00-75")
+        "UK bank account\nName: Maxim Oweyssi\nAccount number:\n04817931\nSort code: 04-00-75")
     col2.image("Revolut.jpg", width=220)
     col3.code(
-        "EU bank account\nName: Maxim Oweyssi\nIBAN:\nGB71REVO00997031615948\nBIC: REVOGB21")
+        "EU bank account\nName: Maxim Oweyssi\nIBAN:\nGB71REVO 00997031615948\nBIC: REVOGB21")
     st.image("spacer.png")
 
     st.subheader("Overnight:")
