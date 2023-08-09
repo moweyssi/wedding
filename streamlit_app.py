@@ -57,7 +57,7 @@ if language == "ENG":
         "UK bank account\nName: Maxim Oweyssi\nAccount number: 04817931\nSort code: 04-00-75")
     col2.image("Revolut.jpg", width=220)
     col3.code(
-        "EU bank account\nName: Maxim Oweyssi\nIBAN:\nGB71 REVO 0099 7031 6159 48\nBIC: REVOGB21")
+        "EU bank account\nName: Maxim Oweyssi\nIBAN:\nGB71REVO00997031615948\nBIC: REVOGB21")
     st.image("spacer.png")
 
     st.subheader("Overnight:")
