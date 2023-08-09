@@ -52,6 +52,7 @@ if language == "ENG":
 
     Due to our scattered possessions across various European lands and beyond, we do not wish for traditional material gifts. However, if you wish to support our newly formed unity, we would gratefully accept a financial contribution towards our journey into the world, which will take place in the winter months. Your assistance will help us explore exotic destinations and build shared memories that will fuel our peaceful marriage during times of conflict and challenge.
     """
+    st.image("QR_code.jpg")
     st.image("spacer.png")
 
     st.subheader("Overnight:")
