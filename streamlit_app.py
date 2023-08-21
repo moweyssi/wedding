@@ -76,6 +76,19 @@ if language == "ENG":
     with col7:
         st.button("snow", on_click=st.snow)
 else:
+    with st.expander("Jedu autem"):
+        """
+         Pokud jedete autem a používáte Google Mapy, zadejte tenhle bod: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
+
+        Pokud používáte mapy.cz, tak zde:
+        https://en.mapy.cz/s/jegadugovu
+        
+        Kontaktní osoba pro parkování je Františka  + 420 722 490 795.
+        Parkování sdílíme spolu s druhou svatbou. Prosím parkujte tak, aby se vedle vás vešla i další auta. Druhá svatba se koná v pivovaru. Vy se vydejte směrem na zámek označenou cestou A A + M.
+        
+        Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
+
+        """
     st.subheader("Nejmilejší rodino a přátelé,")
     """
     Dovolte nám, abychom vás s radostí pozvali na naší avizovanou zámeckou svatbu. Doufáme, že vám následující body poskytnou představu o dění onoho slavnostního dne. Svatba se uskuteční v sobotu **2. září 2023** na krásném Chříčském zámku, který najdete na adrese **Chříč 1**. Začátek obřadu je ve **14.00**. Prosím přijeďte mezi 12.30 a 13.30. Pro stanaře doporučujeme mířit na začátek příjezdového okna.
