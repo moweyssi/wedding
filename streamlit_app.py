@@ -222,7 +222,10 @@ else:
          - **15.00** První tanec
          - **15.30** párty
          - **17.00** Anna a Max si dají kafe s rodinou
-        Během párty budou také proslovy, házení kytkou atd… Je možné až pravděpodobné, že se některá část programu zpozdí, jak už to na svatbách bývá že ano…
+
+        Během párty budou také proslovy, házení kytkou atd…
+        
+        Je možné až pravděpodobné, že se některá část programu zpozdí, jak už to na svatbách bývá že ano…
         """
     with st.expander("**Co na sebe**"):
         """
