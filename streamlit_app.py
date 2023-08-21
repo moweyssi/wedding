@@ -26,20 +26,20 @@ if language == "ENG":
     with st.expander("**I'm driving**"):
         """
         If you're driving and using Google Maps, enter this point: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
-        The contact person for parking is Františka at +420 722 490 795. We're sharing parking with another wedding. Please park in a way that allows other cars to fit next to you. The second wedding is taking place at the brewery. Head towards the castle marked with path  A + M.
+        The contact person for parking is Františka at **+420 722 490 795**. We're sharing parking with another wedding. Please park in a way that allows other cars to fit next to you. The second wedding is taking place at the brewery. Head towards the castle marked with path  A + M.
         Please fill up the cars as much as possible. We aim to have as few cars as possible.
         """
     with st.expander("**I am taking the train**"):
         """
         If you're taking the train, visit https://www.cd.cz/ and search for Kařez to find your connection. It's about a 30-minute drive from Kařez to Chříč.
-        If you don't have arranged transportation from Kařez and need a ride, contact Františka at +420 722 490 795 when you're boarding the train and let her know when you'll arrive and how many of you there are. We'll arrange for someone to pick you up.
+        If you don't have arranged transportation from Kařez and need a ride, contact Františka at **+420 722 490 795** when you're boarding the train and let her know when you'll arrive and how many of you there are. We'll arrange for someone to pick you up.
         Please communicate with Františka through WhatsApp as there's poor signal on-site.
         """
     with st.expander("**When Should I Arrive**"):
         """
          - If you're arriving on Saturday, please come between 12:30 and 13:30. Campers, please arrive earlier. 
          - Light refreshments will be waiting for you on-site. 
-         - If you want to arrive earlier or even on Friday, contact Fred at +420 704 773 391 or Františka at +420 722 490 795. Please use WhatsApp or text messages. Signal is weak in Chříč.
+         - If you want to arrive earlier or even on Friday, contact Fred at **+420 704 773 391** or Františka at **+420 722 490 795**. Please use WhatsApp or text messages. Signal is weak in Chříč.
         """
     with st.expander("**Gifts**"):
         """
@@ -82,11 +82,11 @@ if language == "ENG":
         """
     with st.expander("**Programme**"):
         """
-         - 14:00 Ceremony 
-         - 14:30 Gratulations for those who are not staying overnight
-         - 15:00 First dance 
-         - 15:30 Party till the morning
-         - 17:00 Anna and Max have a coffee with family
+         - **14:00** Ceremony 
+         - **14:30** Gratulations for those who are not staying overnight
+         - **15:00** First dance 
+         - **15:30** Party till the morning
+         - **17:00** Anna and Max have a coffee with family
 
         During the party, there will be speeches, throwing of the bouquet, etc. 
 
@@ -159,7 +159,7 @@ else:
         Pokud používáte mapy.cz, tak zde:
         https://en.mapy.cz/s/jegadugovu
 
-        Kontaktní osoba pro parkování je Františka  + 420 722 490 795.
+        Kontaktní osoba pro parkování je Františka  **+ 420 722 490 795**.
         Parkování sdílíme spolu s druhou svatbou. Prosím parkujte tak, aby se vedle vás vešla i další auta. Druhá svatba se koná v pivovaru. Vy se vydejte směrem na zámek označenou cestou A A + M.
 
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
@@ -169,15 +169,15 @@ else:
         """
         Pokud vyrážíte vlakem, zadejte si na https://www.cd.cz/ Kařez a najděte si spoj. Z Kařezu se jede do Chříče cca 30 minut autem. 
 
-        Pokud nemáte domluvený odvoz z Kařezu a potřebujete svézt, ozvěte se Františce + 420 722 490 795 až budete nastupovat do vlaku a sdělte kdy dorazíte a kolik vás je. Zařídíme, aby vás někdo vyzvedl. 
+        Pokud nemáte domluvený odvoz z Kařezu a potřebujete svézt, ozvěte se Františce **+ 420 722 490 795** až budete nastupovat do vlaku a sdělte kdy dorazíte a kolik vás je. Zařídíme, aby vás někdo vyzvedl. 
 
         S Františkou prosím komunikujte přes whatsapp. Na místě je horší signál.
 
         """
     with st.expander("**Kdy mám přijet**"):
         """
-        Pokud přijíždíte v sobotu, prosím přijďte mezi 12.30 a 13.30. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
-        Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
+        Pokud přijíždíte v sobotu, prosím **přijďte mezi 12.30 a 13.30**. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
+        Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  **+ 420 704 773 391** nebo Františce **+ 420 722 490 795**.
         Prosím ozývejte se přes whatsapp či SMSkou.
         """
     with st.expander("**Dary**"):
@@ -217,11 +217,11 @@ else:
         """
     with st.expander("**Harmonogram**"):
         """
-         - 14.00 Obřad
-         - 14.30 Gratulace
-         - 15.00 První tanec
-         - 15.30 párty
-         - 17.00 Anna a Max si dají kafe s rodinou
+         - **14.00** Obřad
+         - **14.30** Gratulace
+         - **15.00** První tanec
+         - **15.30** párty
+         - **17.00** Anna a Max si dají kafe s rodinou
         Během párty budou také proslovy, házení kytkou atd… Je možné až pravděpodobné, že se některá část programu zpozdí, jak už to na svatbách bývá že ano…
         """
     with st.expander("**Co na sebe**"):
