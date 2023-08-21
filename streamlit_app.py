@@ -23,6 +23,88 @@ st.image("info.png")
 #    )
 
 if language == "ENG":
+    with st.expander("Jedu autem"):
+        """
+         Pokud jedete autem a používáte Google Mapy, zadejte tenhle bod: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
+
+        Pokud používáte mapy.cz, tak zde:
+        https://en.mapy.cz/s/jegadugovu
+
+        Kontaktní osoba pro parkování je Františka  + 420 722 490 795.
+        Parkování sdílíme spolu s druhou svatbou. Prosím parkujte tak, aby se vedle vás vešla i další auta. Druhá svatba se koná v pivovaru. Vy se vydejte směrem na zámek označenou cestou A A + M.
+
+        Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
+
+        """
+    with st.expander("Jedu vlakem"):
+        """
+        Pokud vyrážíte vlakem, zadejte si na https://www.cd.cz/ Kařez a najděte si spoj. Z Kařezu se jede do Chříče cca 30 minut autem. 
+
+        Pokud nemáte domluvený odvoz z Kařezu a potřebujete svézt, ozvěte se Františce + 420 722 490 795 až budete nastupovat do vlaku a sdělte kdy dorazíte a kolik vás je. Zařídíme, aby vás někdo vyzvedl. 
+
+        S Františkou prosím komunikujte přes whatsapp. Na místě je horší signál.
+
+        """
+    with st.expander("Kdy mám přijet"):
+        """
+        Pokud přijíždíte v sobotu, prosím přijďte mezi 12.30 a 13.30. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
+        Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
+        Prosím ozývejte se přes whatsapp či SMSkou. V Chříči je špatný signál, ale vykopali jsme kabel na WiFi.
+        """
+    with st.expander("Gifts"):
+        """
+        Due to our scattered possessions across various European lands and beyond, we do not wish for traditional material gifts. However, if you wish to support our newly formed unity, we would gratefully accept a financial contribution towards our journey into the world, which will take place in the winter months. Your assistance will help us explore exotic destinations and build shared memories that will fuel our peaceful marriage during times of conflict and challenge.
+        """
+        col1, col2, col3 = st.columns(3)
+        col1.code(
+            "UK bank account\nName: Maxim Oweyssi\nAccount number:\n04817931\nSort code: 04-00-75")
+        col2.image("Revolut.jpg", width=220)
+        col3.code(
+            "EU bank account\nName: Maxim Oweyssi\nIBAN:\nGB71REVO 00997031615948\nBIC: REVOGB21")
+    with st.expander("Co si mám vzít s sebou"):
+        """
+         - Pokud spíte ve škole či na zámku, tak spacák a karimatku. Nezampomeňte čelovky, lahev na vodu a powerbanku. 
+         - Boty bez podpadku
+         - Dobrou náladu
+         - Pokud bude pršet, tak deštník 
+        """
+    with st.expander("Můžu nějak pomoci?"):
+        """
+         - Neděle: Pokud budete mít kapacitu a čas, budeme rádi za pomoc s úklidem v neděli. 
+         - Jídlo: Pokud chcete něco upéct/uvařit, budeme rádi. Na místě není možnost ohřívání, ani lednice (bude tam chladná místnost o cca 15 stupních, kde lze skladovat jídlo)
+         - V neděli bude třeba dohlédnout na uklizení a předání místní školy Pivoňka.
+        """
+    with st.expander("Beru si stan"):
+        """
+         - Stan si postavíte na louce za zámkem. 
+         - Tady najdete louku na spaní na Googlemaps: https://goo.gl/maps/bN56ENPyCsYYqcTh7
+         - Tady je louka pro mapisty.cz  https://en.mapy.cz/s/habehesura
+         - Na louku nebude dotažená elektřina, ani voda tzn powerbanky a lahve na vodu s sebou. 
+        """
+    with st.expander("Spím ve škole"):
+        """
+        Místní škola pivoňka nám poskytla své prostory a to i přesto, že momentálně probíhají přípravy na další školní rok, který začíná v pondělí po svatbě. Je to milá malá komunitní školička a my jsme velice vděční za to, že tam můžeme strávit noc. Ačkoliv je tam milion atrakcí, chovejte se prosím s respektem, neberte dětem hračky a ukliďte po sobě. 
+
+        S sebou si vemte spacák, karimatku a vlastní hrníček. 
+        """
+    with st.expander("Harmonogram"):
+        """
+         - 14.00 Obřad
+         - 14.30 Gratulace
+         - 15.00 První tanec
+         - 15.30 párty
+         - 17.00 Anna a Max si dají kafe s rodinou
+        Během párty budou také proslovy, házení kytkou atd… Je možné až pravděpodobné, že se některá část programu zpozdí, jak už to na svatbách bývá že ano…
+        """
+    with st.expander("Co na sebe"):
+        """
+         - Párty se bude konat ve znamení lesního třpytivého bálu. Co s tím? 
+         - Oblečte se tak, abyste se cítili dobře, aby vám bylo teplo, abyste na sobě neměli nic, co vám bude bránit v tanci
+         - Pokud máte chuť a čas se vystrojit, vemte si na sebe něco co se třpytí. Mohou to být boty, kus šperku, kus oděvu či ozdoba do vlasů.
+         - Podpadky nechte doma. Není na to vhodný terén
+        """
+
+
     st.image("footer.png")
     st.subheader("Dearest Friends,")
     """
@@ -76,7 +158,6 @@ if language == "ENG":
     with col7:
         st.button("snow", on_click=st.snow)
 else:
-    st.subheader("FAQ:")
     with st.expander("Jedu autem"):
         """
          Pokud jedete autem a používáte Google Mapy, zadejte tenhle bod: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
@@ -105,6 +186,9 @@ else:
         Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
         Prosím ozývejte se přes whatsapp či SMSkou. V Chříči je špatný signál, ale vykopali jsme kabel na WiFi.
         """
+    with st.expander("Dary"):
+
+
     with st.expander("Co si mám vzít s sebou"):
         """
          - Pokud spíte ve škole či na zámku, tak spacák a karimatku. Nezampomeňte čelovky, lahev na vodu a powerbanku. 
@@ -175,6 +259,7 @@ else:
     Vzhledem k našim majetkovým dispozicím rozmístěným po různých evropských zemích (i za jejich hranicemi), si nepřejeme předměty. Avšak, pokud byste měli tu laskavost a chtěli nás podpořit, přijmeme s pokorou a vděkem finanční příspěvek na naší cestu do světa, která se uskuteční v zimních měsících. Tím nám pomůžete objevovat cizí kraje a budovat společné vzpomínky, které nám v období konfliktu a jiných těžkých chvil dodají energii na pohodové manželství. V případě, že byste se chtěli podílet na přípravách měsíce/týdny/dny předtím, prosím ozvěte se. Pomoc bude potřeba s dekoracemi, jídlem a dalšími položkami.    """
     
     col1, col2, col3 = st.columns(3)
+    col1.code("2111945559/2700")
     col2.image("QR_code.jpg", width=220)
 
     st.image("spacer.png")
