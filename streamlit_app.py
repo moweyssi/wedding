@@ -178,7 +178,7 @@ else:
         """
         Pokud přijíždíte v sobotu, prosím přijďte mezi 12.30 a 13.30. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
         Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
-        Prosím ozývejte se přes whatsapp či SMSkou. V Chříči je špatný signál, ale vykopali jsme kabel na WiFi.
+        Prosím ozývejte se přes whatsapp či SMSkou.
         """
     with st.expander("**Dary**"):
         """
