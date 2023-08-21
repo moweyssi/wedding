@@ -105,7 +105,14 @@ else:
         Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
         Prosím ozývejte se přes whatsapp či SMSkou. V Chříči je špatný signál, ale vykopali jsme kabel na WiFi.
         """
+    with st.expander("Co si mám vzít s sebou"):
+        """
+         - Pokud spíte ve škole či na zámku, tak spacák a karimatku. Nezampomeňte čelovky, lahev na vodu a powerbanku. 
+         - Boty bez podpadku
+         - Dobrou náladu
+         - Pokud bude pršet, tak deštník 
 
+        """
     st.image("footer.png")
     st.subheader("Nejmilejší rodino a přátelé,")
     """
