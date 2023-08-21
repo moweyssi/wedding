@@ -80,13 +80,13 @@ if language == "ENG":
         Bring a sleeping bag, sleeping mat, and your own cup/mug.
 
         """
-    with st.expander("Harmonogram"):
+    with st.expander("Programme"):
         """
-         . 14:00 Ceremony 
-         . 14:30 Gratulations for those who are not staying overnight
-         . 15:00 First dance 
-         . 15:30 Party 
-         . 17:00 Anna and Max have a coffee with family
+         -. 14:00 Ceremony 
+         -. 14:30 Gratulations for those who are not staying overnight
+         -. 15:00 First dance 
+         -. 15:30 Party 
+         -. 17:00 Anna and Max have a coffee with family
 
         During the party, there will be speeches, throwing of the bouquet, etc. 
 
