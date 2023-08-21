@@ -23,25 +23,25 @@ st.image("info.png")
 #    )
 
 if language == "ENG":
-    with st.expander("I'm driving"):
+    with st.expander("**I'm driving**"):
         """
         If you're driving and using Google Maps, enter this point: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
         The contact person for parking is Františka at +420 722 490 795. We're sharing parking with another wedding. Please park in a way that allows other cars to fit next to you. The second wedding is taking place at the brewery. Head towards the castle marked with path  A + M.
         Please fill up the cars as much as possible. We aim to have as few cars as possible.
         """
-    with st.expander("I am taking the train"):
+    with st.expander("**I am taking the train**"):
         """
         If you're taking the train, visit https://www.cd.cz/ and search for Kařez to find your connection. It's about a 30-minute drive from Kařez to Chříč.
         If you don't have arranged transportation from Kařez and need a ride, contact Františka at +420 722 490 795 when you're boarding the train and let her know when you'll arrive and how many of you there are. We'll arrange for someone to pick you up.
         Please communicate with Františka through WhatsApp as there's poor signal on-site.
         """
-    with st.expander("When Should I Arrive"):
+    with st.expander("**When Should I Arrive**"):
         """
          - If you're arriving on Saturday, please come between 12:30 and 13:30. Campers, please arrive earlier. 
          - Light refreshments will be waiting for you on-site. 
          - If you want to arrive earlier or even on Friday, contact Fred at +420 704 773 391 or Františka at +420 722 490 795. Please use WhatsApp or text messages. Signal is weak in Chříč.
         """
-    with st.expander("Gifts"):
+    with st.expander("**Gifts**"):
         """
         Due to our scattered possessions across various European lands and beyond, we do not wish for traditional material gifts. However, if you wish to support our newly formed unity, we would gratefully accept a financial contribution towards our journey into the world, which will take place in the winter months. Your assistance will help us explore exotic destinations and build shared memories that will fuel our peaceful marriage during times of conflict and challenge.
         """
@@ -51,7 +51,7 @@ if language == "ENG":
         col2.image("Revolut.jpg", width=220)
         col3.code(
             "EU bank account\nName: Maxim Oweyssi\nIBAN:\nGB71REVO 00997031615948\nBIC: REVOGB21")
-    with st.expander("What to Bring"):
+    with st.expander("**What to Bring**"):
         """
          - If you're staying at the school or the chateau, bring a sleeping bag and sleeping mat. 
          - Don't forget headlamps, a water bottle, and a power bank.
@@ -60,27 +60,27 @@ if language == "ENG":
          - If it's raining, bring an umbrella
 
         """
-    with st.expander("Can I Help in Any Way?"):
+    with st.expander("**Can I Help in Any Way?**"):
         """
          - Sunday: If you have the capacity and time, we would appreciate help with cleaning on Sunday. 
          - Food: If you want to bake/cook something, it's welcome. There's no heating available on-site, nor a fridge (there's a cool room at around 15 degrees Celsius where food can be stored). 
          - On Sunday, we will need people to oversee the cleanup and handing over the local school "Pivoňka" 
 
         """
-    with st.expander("I will bring a tent"):
+    with st.expander("**I will bring a tent**"):
         """
          - You can set up your tent on the meadow behind the castle.
          - You can find the sleeping meadow on Google Maps here: https://goo.gl/maps/bN56ENPyCsYYqcTh7 
          - There won't be electricity or water on the meadow, so bring power banks and water bottles.
 
         """
-    with st.expander("Staying at the School"):
+    with st.expander("**Staying at the School**"):
         """
         The local school "Pivoňka" has provided us with its premises, despite ongoing preparations for the upcoming school year that starts on Monday after the wedding. It's a lovely little community school, and we're very grateful for being able to spend the night there. While there are numerous attractions, please treat the space with respect, don't take toys from children, and clean up after yourselves.
         Bring a sleeping bag, sleeping mat, and your own cup/mug.
 
         """
-    with st.expander("Programme"):
+    with st.expander("**Programme**"):
         """
          - 14:00 Ceremony 
          - 14:30 Gratulations for those who are not staying overnight
@@ -92,7 +92,7 @@ if language == "ENG":
 
         It's possible, even likely, that parts of the program will be delayed, as is common at weddings.
         """
-    with st.expander("What to Wear"):
+    with st.expander("**What to Wear**"):
         """
          - The party will be themed as a sparkling forest ball. What does this even mean?
          - Rule nr 1: Dress comfortably stay warm, and don't wear anything that will hinder dancing.
@@ -167,7 +167,7 @@ else:
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
 
         """
-    with st.expander("Jedu vlakem"):
+    with st.expander("**Jedu vlakem**"):
         """
         Pokud vyrážíte vlakem, zadejte si na https://www.cd.cz/ Kařez a najděte si spoj. Z Kařezu se jede do Chříče cca 30 minut autem. 
 
@@ -176,13 +176,13 @@ else:
         S Františkou prosím komunikujte přes whatsapp. Na místě je horší signál.
 
         """
-    with st.expander("Kdy mám přijet"):
+    with st.expander("**Kdy mám přijet**"):
         """
         Pokud přijíždíte v sobotu, prosím přijďte mezi 12.30 a 13.30. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
         Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
         Prosím ozývejte se přes whatsapp či SMSkou. V Chříči je špatný signál, ale vykopali jsme kabel na WiFi.
         """
-    with st.expander("Dary"):
+    with st.expander("**Dary**"):
         """
         Vzhledem k našim majetkovým dispozicím rozmístěným po různých evropských zemích (i za jejich hranicemi), si nepřejeme předměty. Avšak, pokud byste měli tu laskavost a chtěli nás podpořit, přijmeme s pokorou a vděkem finanční příspěvek na naší cestu do světa, která se uskuteční v zimních měsících. Tím nám pomůžete objevovat cizí kraje a budovat společné vzpomínky, které nám v období konfliktu a jiných těžkých chvil dodají energii na pohodové manželství. V případě, že byste se chtěli podílet na přípravách měsíce/týdny/dny předtím, prosím ozvěte se. Pomoc bude potřeba s dekoracemi, jídlem a dalšími položkami.
         """
@@ -191,33 +191,33 @@ else:
         col1.code("2111945559/2700")
         col2.image("QR_code.jpg", width=220)
 
-    with st.expander("Co si mám vzít s sebou"):
+    with st.expander("**Co si mám vzít s sebou**"):
         """
          - Pokud spíte ve škole či na zámku, tak spacák a karimatku. Nezampomeňte čelovky, lahev na vodu a powerbanku. 
          - Boty bez podpadku
          - Dobrou náladu
          - Pokud bude pršet, tak deštník 
         """
-    with st.expander("Můžu nějak pomoci?"):
+    with st.expander("**Můžu nějak pomoci?**"):
         """
          - Neděle: Pokud budete mít kapacitu a čas, budeme rádi za pomoc s úklidem v neděli. 
          - Jídlo: Pokud chcete něco upéct/uvařit, budeme rádi. Na místě není možnost ohřívání, ani lednice (bude tam chladná místnost o cca 15 stupních, kde lze skladovat jídlo)
          - V neděli bude třeba dohlédnout na uklizení a předání místní školy Pivoňka.
         """
-    with st.expander("Beru si stan"):
+    with st.expander("**Beru si stan**"):
         """
          - Stan si postavíte na louce za zámkem. 
          - Tady najdete louku na spaní na Googlemaps: https://goo.gl/maps/bN56ENPyCsYYqcTh7
          - Tady je louka pro mapisty.cz  https://en.mapy.cz/s/habehesura
          - Na louku nebude dotažená elektřina, ani voda tzn powerbanky a lahve na vodu s sebou. 
         """
-    with st.expander("Spím ve škole"):
+    with st.expander("**Spím ve škole**"):
         """
         Místní škola pivoňka nám poskytla své prostory a to i přesto, že momentálně probíhají přípravy na další školní rok, který začíná v pondělí po svatbě. Je to milá malá komunitní školička a my jsme velice vděční za to, že tam můžeme strávit noc. Ačkoliv je tam milion atrakcí, chovejte se prosím s respektem, neberte dětem hračky a ukliďte po sobě. 
 
         S sebou si vemte spacák, karimatku a vlastní hrníček. 
         """
-    with st.expander("Harmonogram"):
+    with st.expander("**Harmonogram**"):
         """
          - 14.00 Obřad
          - 14.30 Gratulace
@@ -226,7 +226,7 @@ else:
          - 17.00 Anna a Max si dají kafe s rodinou
         Během párty budou také proslovy, házení kytkou atd… Je možné až pravděpodobné, že se některá část programu zpozdí, jak už to na svatbách bývá že ano…
         """
-    with st.expander("Co na sebe"):
+    with st.expander("**Co na sebe**"):
         """
          - Párty se bude konat ve znamení lesního třpytivého bálu. Co s tím? 
          - Oblečte se tak, abyste se cítili dobře, aby vám bylo teplo, abyste na sobě neměli nic, co vám bude bránit v tanci
