@@ -111,8 +111,28 @@ else:
          - Boty bez podpadku
          - Dobrou náladu
          - Pokud bude pršet, tak deštník 
-
         """
+    with st.expander("Můžu nějak pomoci?"):
+        """
+         - Neděle: Pokud budete mít kapacitu a čas, budeme rádi za pomoc s úklidem v neděli. 
+         - Jídlo: Pokud chcete něco upéct/uvařit, budeme rádi. Na místě není možnost ohřívání, ani lednice (bude tam chladná místnost o cca 15 stupních, kde lze skladovat jídlo)
+         - V neděli bude třeba dohlédnout na uklizení a předání místní školy Pivoňka.
+        """
+    with st.expander("Beru si stan"):
+        """
+         - Stan si postavíte na louce za zámkem. 
+         - Tady najdete louku na spaní na Googlemaps: https://goo.gl/maps/bN56ENPyCsYYqcTh7
+         - Tady je louka pro mapisty.cz  https://en.mapy.cz/s/habehesura
+         - Na louku nebude dotažená elektřina, ani voda tzn powerbanky a lahve na vodu s sebou. 
+        """
+    with st.expander("Spím ve škole:"):
+        """
+        Místní škola pivoňka nám poskytla své prostory a to i přesto, že momentálně probíhají přípravy na další školní rok, který začíná v pondělí po svatbě. Je to milá malá komunitní školička a my jsme velice vděční za to, že tam můžeme strávit noc. Ačkoliv je tam milion atrakcí, chovejte se prosím s respektem, neberte dětem hračky a ukliďte po sobě. 
+
+        S sebou si vemte spacák, karimatku a vlastní hrníček. 
+        """
+
+
     st.image("footer.png")
     st.subheader("Nejmilejší rodino a přátelé,")
     """
