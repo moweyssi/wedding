@@ -85,7 +85,7 @@ if language == "ENG":
          - 14:00 Ceremony 
          - 14:30 Gratulations for those who are not staying overnight
          - 15:00 First dance 
-         - 15:30 Party 
+         - 15:30 Party till the morning
          - 17:00 Anna and Max have a coffee with family
 
         During the party, there will be speeches, throwing of the bouquet, etc. 
