@@ -13,14 +13,14 @@ language = st.radio(
     ('CZ','ENG'), horizontal=True,label_visibility="hidden")
 st.image("info.png")
 
-with st.expander(":rewd[RSVP Form]"):
-    st.markdown(
-        """
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNEAVH0J3Fob8uPX2qJz3puVX5HhE_LTs2CqG5mkcmMSsrOg/viewform?embedded=true", width=100%, height=2200></iframe>
-        """,
-        unsafe_allow_html=True
-
-    )
+#with st.expander(":rewd[RSVP Form]"):
+#    st.markdown(
+#        """
+#        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNEAVH0J3Fob8uPX2qJz3puVX5HhE_LTs2CqG5mkcmMSsrOg/viewform?embedded=true", width=100%, height=2200></iframe>
+#        """,
+#        unsafe_allow_html=True
+#
+#    )
 
 if language == "ENG":
     st.image("footer.png")
