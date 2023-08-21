@@ -160,7 +160,7 @@ else:
         https://en.mapy.cz/s/jegadugovu
 
         Kontaktní osoba pro parkování je Františka  **+ 420 722 490 795**.
-        Parkování sdílíme spolu s druhou svatbou. Prosím parkujte tak, aby se vedle vás vešla i další auta. Druhá svatba se koná v pivovaru. Vy se vydejte směrem na zámek označenou cestou A A + M.
+        Parkování sdílíme spolu s druhou svatbou. Prosím parkujte tak, aby se vedle vás vešla i další auta. Druhá svatba se koná v pivovaru. Vy se vydejte směrem na zámek označenou cestou A + M.
 
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
 
