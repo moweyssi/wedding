@@ -76,6 +76,7 @@ if language == "ENG":
     with col7:
         st.button("snow", on_click=st.snow)
 else:
+    st.subheader("FAQ:")
     with st.expander("Jedu autem"):
         """
          Pokud jedete autem a používáte Google Mapy, zadejte tenhle bod: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
@@ -98,11 +99,11 @@ else:
         S Františkou prosím komunikujte přes whatsapp. Na místě je horší signál.
 
         """
-    with st.expander("Kdy mám přijet:"):
+    with st.expander("Kdy mám přijet"):
         """
         Pokud přijíždíte v sobotu, prosím přijďte mezi 12.30 a 13.30. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
         Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
-        Prosím ozývejte se přes whatsapp či smskou. V Chříči je špatný signál. 
+        Prosím ozývejte se přes whatsapp či SMSkou. V Chříči je špatný signál, ale vykopali jsme kabel na WiFi.
         """
 
     st.image("footer.png")
