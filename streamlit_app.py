@@ -154,7 +154,7 @@ if language == "ENG":
     with col7:
         st.button("snow", on_click=st.snow)
 else:
-    with st.expander("Jedu autem"):
+    with st.expander("*Jedu autem*"):
         """
          Pokud jedete autem a používáte Google Mapy, zadejte tenhle bod: https://goo.gl/maps/KJ2JbQiQmp4hMbNx5
 
