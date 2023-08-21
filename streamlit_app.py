@@ -125,12 +125,29 @@ else:
          - Tady je louka pro mapisty.cz  https://en.mapy.cz/s/habehesura
          - Na louku nebude dotažená elektřina, ani voda tzn powerbanky a lahve na vodu s sebou. 
         """
-    with st.expander("Spím ve škole:"):
+    with st.expander("Spím ve škole"):
         """
         Místní škola pivoňka nám poskytla své prostory a to i přesto, že momentálně probíhají přípravy na další školní rok, který začíná v pondělí po svatbě. Je to milá malá komunitní školička a my jsme velice vděční za to, že tam můžeme strávit noc. Ačkoliv je tam milion atrakcí, chovejte se prosím s respektem, neberte dětem hračky a ukliďte po sobě. 
 
         S sebou si vemte spacák, karimatku a vlastní hrníček. 
         """
+    with st.expander("Harmonogram"):
+        """
+         - 14.00 Obřad
+         - 14.30 Gratulace
+         - 15.00 První tanec
+         - 15.30 párty
+         - 17.00 Anna a Max si dají kafe s rodinou
+        Během párty budou také proslovy, házení kytkou atd… Je možné až pravděpodobné, že se některá část programu zpozdí, jak už to na svatbách bývá že ano…
+        """
+    with st.expander("Co na sebe"):
+        """
+         - Párty se bude konat ve znamení lesního třpytivého bálu. Co s tím? 
+         - Oblečte se tak, abyste se cítili dobře, aby vám bylo teplo, abyste na sobě neměli nic, co vám bude bránit v tanci
+         - Pokud máte chuť a čas se vystrojit, vemte si na sebe něco co se třpytí. Mohou to být boty, kus šperku, kus oděvu či ozdoba do vlasů.
+         - Podpadky nechte doma. Není na to vhodný terén
+        """
+
 
 
     st.image("footer.png")
