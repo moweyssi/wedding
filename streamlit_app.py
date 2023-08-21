@@ -87,7 +87,9 @@ if language == "ENG":
          - 15:00 First dance 
          - 15:30 Party 
          - 17:00 Anna and Max have a coffee with family
+
         During the party, there will be speeches, throwing of the bouquet, etc. 
+        
         It's possible, even likely, that parts of the program will be delayed, as is common at weddings.
         """
     with st.expander("What to Wear"):
