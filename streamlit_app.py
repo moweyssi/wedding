@@ -89,6 +89,22 @@ else:
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
 
         """
+    with st.expander("Jedu vlakem"):
+        """
+        Pokud vyrážíte vlakem, zadejte si na https://www.cd.cz/ Kařez a najděte si spoj. Z Kařezu se jede do Chříče cca 30 minut autem. 
+
+        Pokud nemáte domluvený odvoz z Kařezu a potřebujete svézt, ozvěte se Františce + 420 722 490 795 až budete nastupovat do vlaku a sdělte kdy dorazíte a kolik vás je. Zařídíme, aby vás někdo vyzvedl. 
+
+        S Františkou prosím komunikujte přes whatsapp. Na místě je horší signál.
+
+        """
+    with st.expander("Kdy mám přijet:"):
+        """
+        Pokud přijíždíte v sobotu, prosím přijďte mezi 12.30 a 13.30. Stanaři přijeďte dříve. Na místě vás bude čekat drobné občerstvení.
+        Pokud chcete přijet dřív, případně už v pátek, ozvěte se Fredovi  + 420 704 773 391 nebo Františce + 420 722 490 795.
+        Prosím ozývejte se přes whatsapp či smskou. V Chříči je špatný signál. 
+        """
+
     st.image("footer.png")
     st.subheader("Nejmilejší rodino a přátelé,")
     """
