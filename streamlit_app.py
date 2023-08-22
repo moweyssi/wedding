@@ -175,9 +175,9 @@ else:
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
 
         """
-    with st.expander("**Mam misto v aute**"):
+    with st.expander("**Mam místo v aute**"):
         """
-        Prosim vyplnte [tabulku](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
+        Prosíme vyplnte [tabulku](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
         """
         st.markdown("""
         <iframe width=680 height=600 src="https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing?widget=true&amp;headers=false""></iframe>
