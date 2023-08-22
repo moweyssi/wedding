@@ -175,7 +175,7 @@ else:
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
 
         """
-    with st.expander("**Mam místo v aute**"):
+    with st.expander("**Mám místo v aute**"):
         """
         Prosíme vyplňte [tabulku](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
         """
