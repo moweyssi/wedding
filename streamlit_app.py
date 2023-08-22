@@ -175,6 +175,13 @@ else:
         Prosím naplňte auta tak, aby vás jelo co nejvíce a aut bylo co nejméně. 
 
         """
+    with st.expander("**Mam misto v aute**"):
+        """
+        Prosim vyplnte [tabulku](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
+        """
+        st.markdown("""
+        <iframe width=680 height=600 src="https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing?widget=true&amp;headers=false""></iframe>
+        """,unsafe_allow_html=True)
     with st.expander("**Jedu vlakem**"):
         """
         Pokud vyrážíte vlakem, zadejte si na https://www.cd.cz/ Kařez a najděte si spoj. Z Kařezu se jede do Chříče cca 30 minut autem. 
