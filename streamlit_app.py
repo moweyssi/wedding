@@ -177,7 +177,7 @@ else:
         """
     with st.expander("**Mam místo v aute**"):
         """
-        Prosíme vyplnte [tabulku](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
+        Prosíme vyplňte [tabulku](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
         """
         st.markdown("""
         <iframe width=680 height=600 src="https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing?widget=true&amp;headers=false""></iframe>
