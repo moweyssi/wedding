@@ -32,7 +32,7 @@ if language == "ENG":
         Please fill in this [spreadsheet](https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing):
         """
         st.markdown("""
-        <iframe width=650 height=600 src="https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing?widget=true&amp;headers=false""></iframe>
+        <iframe width=680 height=600 src="https://docs.google.com/spreadsheets/d/18m0ynbyI23b6Ac3nsWZO7NpxU6eVmFNSXFxOKpWsWLA/edit?usp=sharing?widget=true&amp;headers=false""></iframe>
         """,unsafe_allow_html=True)
     with st.expander("**I am taking the train**"):
         """
