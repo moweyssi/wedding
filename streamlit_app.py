@@ -237,7 +237,10 @@ else:
          - Pokud máte chuť a čas se vystrojit, vemte si na sebe něco co se třpytí. Mohou to být boty, kus šperku, kus oděvu či ozdoba do vlasů.
          - Podpadky nechte doma. Není na to vhodný terén
         """
-
+    with st.expander("**Jídlo**"):
+        """
+        Jídlo bude různorodé a každý, kdo se identitifikuje jako „jen-něco-žravec“ si tam najde své, stejně tak jako ti, kteří na sebe pohlíží jako „vše-žravci“. Jídlo bude servírováno po obřadu tzn. Cca v 15.00 formou švédských stolů. Pokud máte chuť něčím přispět, budeme rádi, jen prosím myslete na to, že na místě není lednice ani šance ohřátí. Jídlo můžeme skladovat v místnosti o zhruba 15 stupních.
+        """
 
 
 
