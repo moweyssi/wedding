@@ -99,6 +99,9 @@ if language == "ENG":
          - If you have the time and inclination to dress up, wear something that sparkles. It could be shoes, a piece of jewellery, a clothing item, or a hair accessory. Leave high heels at home. The terrain is not suitable.
 
         """
+    with st.expander("**Food**"):
+        """
+        The selection will be diverse, and everyone who identifies as a "just-something-eater" will find something to eat, as well as thosewho identify themselves as "omnivores". Food will be served after the ceremony, i.e. Around 15.00 in a buffet format (you serve yourself whatever you want). If you feel like contributing to the food selection, we will be happy, just please keep in mind that there is no refrigerator or chance to warm the food. We can store food in a room at about 15 degrees.        """
 
 
     st.image("footer.png")
@@ -234,6 +237,7 @@ else:
          - Pokud máte chuť a čas se vystrojit, vemte si na sebe něco co se třpytí. Mohou to být boty, kus šperku, kus oděvu či ozdoba do vlasů.
          - Podpadky nechte doma. Není na to vhodný terén
         """
+
 
 
 
